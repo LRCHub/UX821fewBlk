@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Dreamin' Girl",
+  "base_artist": "PiXMiX",
+  "createdAt": "2025-12-12T21:07:59.554879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreamin' Girl",
+      "artist": "ランコ",
+      "has_synced": false,
+      "path": "select/01_Dreamin'_Girl_ランコ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamin' Girl",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/02_Dreamin'_Girl_KARA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamin' Girl",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/03_Dreamin'_Girl_Kara.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "-Dreamin' Girl- 恋、はじめまして",
+      "artist": "岡田有希子",
+      "has_synced": false,
+      "path": "select/04_-Dreamin'_Girl-_恋、はじめまして_岡田有希子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreamin' Girl",
+      "artist": "PiXMiX",
+      "has_synced": false,
+      "path": "select/pl_01_Dreamin'_Girl_PiXMiX.txt"
+    }
+  ]
+}
